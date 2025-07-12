@@ -28,6 +28,16 @@ This project is an automatic PS4 9.00 jailbreak that uses PSFree and Lapse to lo
 
 5. **Code Organization**: Improved code structure and organization for better maintainability.
 
+Key Features:
+
+🎯 Firmware Support: PS4 9.00 (99% stability rate)
+
+🔗 Kernel Access: Integrated Lapse kernel exploit for full system access
+
+📱 Web-based: Runs directly in the PS4 browser - no additional tools required
+
+💾 Offline Cache: Built-in caching system for reliable offline usage
+
 ## How to Use
 
 1. Open the internet browser on your PS4 with firmware 9.00.
@@ -63,11 +73,17 @@ This project is an automatic PS4 9.00 jailbreak that uses PSFree and Lapse to lo
 ## Credits
 
 ⦁	PSFree v1.5.1: WebKit exploit using CVE-2022-22620 (by TheFlow, ChendoChap, Znullptr, sleirsgoevy)
+
 ⦁	Lapse: Kernel exploit for firmware 9.00 (by ChendoChap, Specter, Znullptr, sleirsgoevy)
+
 ⦁	GoldHEN v2.4b18.4: Main jailbreak payload (by SiSTRo)
+
 ⦁	Advanced Memory Management System (by Mina Adel):
+
 ⦁	Memory Stabilizer: Core memory stability module
+
 ⦁	Exploit Stabilizer: Memory stability module during exploit execution
+
 ⦁	PS4 Memory Helper: PS4 browser performance optimization module
 
 
