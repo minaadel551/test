@@ -1904,7 +1904,7 @@ kexploit().then(() => {
       document.getElementById('message').innerHTML = `Loaded GoldHEN v${GOLDHEN_VERSION} Successfully !`;
       
       // تحديث معلومات الإصدار في الصفحة
-      updateVersionInfo();
+     // updateVersionInfo();
       
       // تنفيذ الـ payload
       call_nze(
