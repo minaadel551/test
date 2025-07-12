@@ -74,7 +74,8 @@
 
 ⦁	GoldHEN v2.4b18.4: الـ payload الرئيسي للـ jailbreak (بواسطة SiSTRo)
 
-⦁	نظام إدارة الذاكرة المتقدم (بواسطة Mina Adel):
+⦁ Advanced Memory Management System  نظام إدارة الذاكرة المتقدم (بواسطة Mina Adel):
+	
 ⦁	Memory Stabilizer: وحدة تحسين استقرار الذاكرة الأساسية
 
 ⦁	Exploit Stabilizer: وحدة تحسين استقرار الذاكرة أثناء تنفيذ الـ exploit
