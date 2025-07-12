@@ -1,4 +1,4 @@
-# \[\*\*Read this in English\*\*](./README.md)
+[\*\*Read this in English\*\*](./README.md)
 
 # PS4 Auto Jailbreak By MINA ADEL - Version 2.2.0
 
