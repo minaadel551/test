@@ -32,7 +32,7 @@ This project is an automatic PS4 9.00 jailbreak that uses PSFree and Lapse to lo
 
 1. Open the internet browser on your PS4 with firmware 9.00.
 
-2. 2\. Go to the host \[website](https://minaadel551.github.io/ps4host/).
+2. 2\. Go to the host [website](https://minaadel551.github.io/ps4host/).
 
 3. The page will be automatically cached in the browser.
 
@@ -78,7 +78,7 @@ This project is an automatic PS4 9.00 jailbreak that uses PSFree and Lapse to lo
 
 ## Developer
 
-* \[Mina Adel](https://minaadel551.github.io).
+* [Mina Adel](https://minaadel551.github.io).
 
 ## License
 
