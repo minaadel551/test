@@ -38,7 +38,7 @@ This project is an automatic PS4 9.00 jailbreak that uses PSFree and Lapse to lo
 
 4. PSFree and Lapse exploits will run automatically.
 
-5. GoldHEN v2.4b18.4 will be loaded and executed automatically.
+5. GoldHEN will be loaded and executed automatically.
 
 ## Important Notes
 
@@ -62,19 +62,14 @@ This project is an automatic PS4 9.00 jailbreak that uses PSFree and Lapse to lo
 
 ## Credits
 
-* PSFree v1.5.1: WebKit exploit using CVE-2022-22620
+⦁	PSFree v1.5.1: WebKit exploit using CVE-2022-22620 (by TheFlow, ChendoChap, Znullptr, sleirsgoevy)
+⦁	Lapse: Kernel exploit for firmware 9.00 (by ChendoChap, Specter, Znullptr, sleirsgoevy)
+⦁	GoldHEN v2.4b18.4: Main jailbreak payload (by SiSTRo)
+⦁	Advanced Memory Management System (by Mina Adel):
+⦁	Memory Stabilizer: Core memory stability module
+⦁	Exploit Stabilizer: Memory stability module during exploit execution
+⦁	PS4 Memory Helper: PS4 browser performance optimization module
 
-* Lapse: Kernel exploit for firmware 9.00
-
-* GoldHEN: Main jailbreak payload
-
-* Advanced Memory Management System:
-
-  * Memory Stabilizer: Core memory stability module
-
-  * Exploit Stabilizer: Memory stability module during exploit execution
-
-  * PS4 Memory Helper: PS4 browser performance optimization module
 
 ## Developer
 
