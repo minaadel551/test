@@ -6,6 +6,8 @@
 
 # PS4 Auto Jailbreak By MINA ADEL - Version 2.2.0
 
+![Image](https://github.com/minaadel551/test/blob/eced3a0072e8d12ec94680441dd7f2b38402091d/Images/readme.png)
+
 ## نظرة عامة
 
 هذا المشروع هو صفحة ويب تقوم بعمل jailbreak تلقائي لجهاز PlayStation 4 بإصدار البرنامج الثابت 9.00 باستخدام استغلال PSFree و Lapse. يقوم المشروع بتحميل وتنفيذ GoldHEN v2.4b18.4 تلقائيًا دون الحاجة إلى فلاشة USB أو أي أجهزة خارجية.
