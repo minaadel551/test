@@ -4,7 +4,7 @@
 
 ![GoldHEN Version](https://img.shields.io/badge/GoldHEN-v2.4.1-yellow)
 ![PS4](https://img.shields.io/badge/PS4-9.00%2B-blue)
-![GoldHEN Version]([https://img.shields.io/badge/GoldHEN-v2.4.1-yellow](https://github.com/minaadel551/test/blob/main/Images/readme.png))
+
 
 
 ## Overview
