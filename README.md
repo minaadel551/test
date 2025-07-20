@@ -1,6 +1,6 @@
 [\*\*Read this in Arabic\*\*](./README\_AR.md)
 
-![GoldHEN Version](https://img.shields.io/badge/GoldenHEN%20-v2.4b18.3-yellow )
+![GoldHEN Version](https://img.shields.io/badge/GoldHen-v2.4b18.3-yellow)
 ![PS4](https://img.shields.io/badge/PS4-9.00-blue)
 
 
