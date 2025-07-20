@@ -94,7 +94,7 @@ Key Features:
 
 ## Developer
 
-* [Mina Adel](https://minaadel551.github.io).
+* [Mina Adel](https://github.com/minaadel551)).
 
 ## License
 
