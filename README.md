@@ -1,7 +1,8 @@
 [\*\*Read this in Arabic\*\*](./README\_AR.md)
 
 ![GoldHEN Version](https://img.shields.io/badge/GoldenHEN%20-v2.4b18.3-yellow )
-![PS4](https://img.shields.io/badge/PS4-9.00%2B-blue)
+![PS4](https://img.shields.io/badge/PS4-9.00-blue)
+
 
 # PS4 Auto Jailbreak By MINA ADEL - Version 2.2.0
 
