@@ -5,7 +5,7 @@
 
 
 # PS4 Auto Jailbreak By MINA ADEL - Version 2.2.0
-
+![Mina](https://img.shields.io/badge/Mina%20-Adel-red?style=plastic)
 ![Image](https://github.com/minaadel551/test/blob/eced3a0072e8d12ec94680441dd7f2b38402091d/Images/readme.png)
 
 
